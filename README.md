@@ -62,4 +62,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0011ff&text=brunocoelho999&animation=twinkling&fontAlignY=86&descAlignY=50&descAlign=50&fontSize=15&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0011ff&animation=twinkling&fontAlignY=36&descAlignY=84&descAlign=50&fontSize=25&section=footer&fontColor=ffffff&stroke=000000&strokeWidth=0.1&descSize=28&desc=brunocoelho999&fontAlign=37"/>
