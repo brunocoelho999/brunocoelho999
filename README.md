@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I`m%20Bruno%20&textBg=false&animation=twinkling&reversal=false&section=header&fontSize=50" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Hi,%20I'm%20Bruno%20&animation=twinkling&fontAlignY=35&descAlignY=50&descAlign=50" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development and solutions with JavaScript.</p>&nbsp;
