@@ -58,12 +58,9 @@
 <a href = "mailto:contato.brunotadeucoelho@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"  target="_blank">
-<p>brunocoelho999</p>
 </div>&nbsp;&nbsp;
 
 
- 
-
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&textBg=false&animation=twinkling&reversal=false&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=brunocoelho999&animation=twinkling&fontAlignY=86&descAlignY=50&descAlign=50&fontSize=15&section=footer"/>
